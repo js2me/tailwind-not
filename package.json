@@ -1,7 +1,7 @@
 {
   "name": "tailwind-not",
-  "version": "0.0.2",
-	"description": "A Tailwind CSS plugin for classes with negative conditions",
+  "version": "0.0.3",
+  "description": "A Tailwind CSS plugin for classes with negative conditions",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/js2me/tailwind-not.git"
@@ -26,7 +26,7 @@
     "not",
     "utility",
     "css",
-		"postcss",
+    "postcss",
     "tailwindcss"
   ],
   "author": "js2me",
